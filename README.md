@@ -86,7 +86,7 @@
     </tbody>
 </table>
 
-<h1>About me...</h1>
+<h1>About me</h1>
 
 - 🔭 I’m currently working on Certification Azure Developer Associate
 - 🌱 I’m currently learning Preact, Infrastucture in AWS and Azure and UX/IU
