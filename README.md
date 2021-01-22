@@ -13,77 +13,79 @@
 
 
 ## My Tech Stack
-
 <table>
-  <tbody>
-    <tr valign="top">
-       <td width="20%" align="center">
-        <span><strong>Javascript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-       <td width="20%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="20%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-	      <span><strong>MySQL</strong></span><br><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="20%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Microsoft Azure</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  <tr valign="top">
-       <td width="20%" align="center">
-        <span><strong>Angular</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
-       <td width="20%" align="center">
-        <span><strong>React</strong></span><br><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="20%" align="center">
-	      <span><strong>NodeJs</strong></span><br><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>SerenityBDD</strong></span><br><br><br>
-        <img height="64px" src="http://thucydides.info/docs/serenity-staging/images/serenity-logo.png">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Cucumber</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/cucumber.svg">
-      </td>
-     </tr>
-  </tbody>
+    <tbody>
+        <tr valign="top">
+            <td width="20%" align="center">
+                <span><strong>Javascript</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Java</strong></span><br><br><br>
+                <img height="100px"
+                    src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Python</strong></span><br><br><br>
+                <img height="100px"
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>CSS</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Html 5</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="20%" align="center">
+                <span><strong>AWS</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Git</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Microsoft Azure</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/azure-icon.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>SerenityBDD</strong></span><br><br><br>
+                <img height="64px" src="http://thucydides.info/docs/serenity-staging/images/serenity-logo.png">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Cucumber</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/cucumber.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="20%" align="center">
+                <span><strong>Angular</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>React</strong></span><br><br><br>
+                <img height="100px" src="https://cdn.svgporn.com/logos/react.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>NodeJs</strong></span><br><br><br>
+                <img height="100px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>Spring</strong></span><br><br><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
+            </td>
+            <td width="20%" align="center">
+                <span><strong>MySQL</strong></span><br><br><br>
+                <img height="100px" src="https://cdn.svgporn.com/logos/mysql.svg">
+            </td>
+        </tr>
+    </tbody>
 </table>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
