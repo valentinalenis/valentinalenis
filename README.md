@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/linkedin-valentina%20Lenis%20Caicedo-blue">
   </a>
   
-  <a href="https://www.instagram.com/sachuverma_/">
+  <a href="mailto:valentinalenis98@gmail.com">
     <img src="https://img.shields.io/badge/gmail-valentinalenis98gmail.com-red">
   </a>
 </p>
