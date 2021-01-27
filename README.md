@@ -94,4 +94,3 @@
 - 🤔 I’m looking for help with learn more and more
 - 💬 Ask me about anything(if I don't know, we'll investigate)
 - 📫 How to reach me: valentinalenis98@gmail.com
-- ⚡ Fun fact: ...✨
