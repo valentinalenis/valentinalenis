@@ -89,7 +89,7 @@
 <h1>About me</h1>
 
 - 🔭 I’m currently working on Certification Azure Developer Associate
-- 🌱 I’m currently learning Infrastucture in AWS and Azur, Preact and UX/UI
+- 🌱 I’m currently learning Infrastucture in AWS and Azure, Preact and UX/UI
 - 👯 I’m looking to collaborate on opensource project
 - 🤔 I’m looking for help with learn more and more
 - 💬 Ask me about anything(if I don't know, we'll investigate)
