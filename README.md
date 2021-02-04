@@ -2,11 +2,11 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p align="right"><br/>
    <a href="https://www.linkedin.com/in/valentina-lenis-caicedo-85b992169/">
-    <img src="https://img.shields.io/badge/linkedin-valentina%20Lenis%20Caicedo-blue">
+    <img src="https://img.shields.io/badge/linkedin-Valentina%20Lenis%20Caicedo-blue">
   </a>
   
   <a href="mailto:valentinalenis98@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-valentinalenis98gmail.com-red">
+    <img src="https://img.shields.io/badge/gmail-valentinalenis98@gmail.com-red">
   </a>
 </p>
 
